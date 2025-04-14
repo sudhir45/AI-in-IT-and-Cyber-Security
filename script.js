@@ -1,4 +1,4 @@
-// JavaScript for AI in IT Infrastructure and Cybersecurity Website
+// JavaScript for AI in IT Infrastructure and Cybersecurity Website..
 
 // Wait for the document to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
